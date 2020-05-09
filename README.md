@@ -1,16 +1,15 @@
-# gbh_places_ui
+# Draggable Drawer
 
-Gayborhood Places Logo downloader
+Animated draggable drawer example
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- No external libs
+- Touch-friendly
+- Animated
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Use `flutter run` to build and run example.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+&copy; 2020, Eduard Bondarenko

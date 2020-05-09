@@ -20,7 +20,7 @@ https://github.com/edbond/draggable_drawer
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/Screenshot_1589024856.png)
-![Screenshot 2](/screenshots/Screenshot_1589024848.png)
+![Screenshot 1](/screenshots/Screenshot_1589024848.png)
+![Screenshot 2](/screenshots/Screenshot_1589024856.png)
 
 &copy; 2020, Eduard Bondarenko

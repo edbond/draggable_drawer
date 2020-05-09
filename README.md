@@ -12,4 +12,15 @@ Animated draggable drawer example
 
 Use `flutter run` to build and run example.
 
+## Source code
+
+https://github.com/edbond/draggable_drawer
+
+## Google Play
+
+## Screenshots
+
+![Screenshot 1](/screenshots/Screenshot_1589024856.png)
+![Screenshot 2](/screenshots/Screenshot_1589024848.png)
+
 &copy; 2020, Eduard Bondarenko

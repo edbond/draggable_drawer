@@ -26,6 +26,6 @@ https://github.com/edbond/draggable_drawer
 
 ## Google Play
 
-Review pending
+https://play.google.com/store/apps/details?id=com.edbond.draggable_drawer
 
 &copy; 2020, Eduard Bondarenko

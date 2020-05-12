@@ -93,11 +93,12 @@ class _TransitionDrawerState extends State<TransitionDrawer>
               return;
             }
 
-            if (details.globalPosition.dx < width * 0.15) {
-              trackHorizontalDrag = true;
-            } else {
-              trackHorizontalDrag = false;
-            }
+            trackHorizontalDrag = true;
+            // if (details.globalPosition.dx < width * 0.15) {
+            //   trackHorizontalDrag = true;
+            // } else {
+            //   trackHorizontalDrag = false;
+            // }
           },
           onHorizontalDragUpdate: (details) {
             if (!trackHorizontalDrag) return;
@@ -135,15 +136,6 @@ class _TransitionDrawerState extends State<TransitionDrawer>
             },
           ),
         ),
-        // Positioned(
-        //   left: (width * 0.15),
-        //   top: 0,
-        //   width: 0.5,
-        //   bottom: 0,
-        //   child: Container(
-        //     color: Colors.red,
-        //   ),
-        // )
       ],
     );
   }
